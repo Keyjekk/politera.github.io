@@ -1,2 +1,2 @@
-# politera.github.io
+# PoliteEra
 Political Simulator 
